@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="270dp" android:minHeight="56dp" android:updatePeriodMillis="3600000"
+    android:previewImage="@drawable/example_appwidget_preview"
+    android:initialLayout="@layout/scores_list_item"
+    android:resizeMode="none"
+    android:widgetCategory="home_screen"/>

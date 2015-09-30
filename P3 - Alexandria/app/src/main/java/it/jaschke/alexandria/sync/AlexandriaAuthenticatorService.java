@@ -1,0 +1,27 @@
+package it.jaschke.alexandria.sync;
+
+import android.app.Service;
+import android.content.Intent;
+import android.os.IBinder;
+
+
+public class AlexandriaAuthenticatorService extends Service {
+    // Instance field that stores the authenticator object
+    private AlexandriaAuthenticator mAuthenticator;
+
+    @Override
+    public void onCreate() {
+        // Create a new authenticator object
+        mAuthenticator = new AlexandriaAuthenticator(this);
+    }
+
+    /*
+     * When the system binds to this Service to make the RPC call
+     * return the authenticator's IBinder.
+     */
+    @Override
+    public IBinder onBind(Intent intent) {
+        return mAuthenticator.getIBinder();
+    }
+}
+

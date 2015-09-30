@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="96c83d4de6289a3f674165f896ac992564a7138d">
+        <dex dex="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/pre-dexed/debug/classes-da05421875e690061c92699e68bfebb16fd75c44.jar" />
+    </item>
+    <item
+        jar="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/pre-dexed/debug/classes-48e05e8fd51d8b2c2abf65a1592817858a3656f4.jar" />
+    </item>
+    <item
+        jar="/Users/nikitagamolsky/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-c1dee0ea40978ed5e9d76184bf9eb9f0b52c29a3.jar" />
+    </item>
+    <item
+        jar="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/pre-dexed/debug/classes-4eb9dcdda62e891ec7cc9d6fedeffaea3110932b.jar" />
+    </item>
+    <item
+        jar="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-282b3f5b98ae7370a5dc2ec1a004a2ef531056ce.jar" />
+    </item>
+    <item
+        jar="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
+        <dex dex="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/pre-dexed/debug/jacocoagent-9d4a7272da290615f28fe12762079e048690ee33.jar" />
+    </item>
+    <item
+        jar="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zbar/1.8.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="15f1c7a4c01dd95b6da8c5acfaf42d2075d1ae2a">
+        <dex dex="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/pre-dexed/debug/classes-c47a1b6902b8ff246edf7ed0c62c767a3bcf849d.jar" />
+    </item>
+    <item
+        jar="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zbar/1.8.2/jars/libs/zbar.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="/Users/nikitagamolsky/Downloads/alexandria/app/build/intermediates/pre-dexed/debug/zbar-a6cfba8984884f384ad2985b2c56daa9dc06e7dc.jar" />
+    </item>
+
+</items>
