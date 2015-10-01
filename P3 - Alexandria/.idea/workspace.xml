@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7040c12-f4e8-4640-ac8c-3506727387ed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/it/jaschke/alexandria/AddBook.java" afterPath="$PROJECT_DIR$/app/src/main/java/it/jaschke/alexandria/AddBook.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/it/jaschke/alexandria/BookDetail.java" afterPath="$PROJECT_DIR$/app/src/main/java/it/jaschke/alexandria/BookDetail.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/app/src/main/java/barqsoft/footballscores/Utilies.java" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/app/src/main/java/barqsoft/footballscores/Utilies.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/.idea/libraries/appcompat_v7_21_0_3.xml" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/.idea/libraries/appcompat_v7_21_0_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/local.properties" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/app/src/main/java/barqsoft/footballscores/scoresAdapter.java" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/app/src/main/java/barqsoft/footballscores/scoresAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/.idea/libraries/support_v4_21_0_3.xml" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/.idea/libraries/support_v4_21_0_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/app/src/main/res/layout/detail_fragment.xml" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/app/src/main/res/layout/detail_fragment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../P3 - Football_Scores/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../P3 - Football_Scores/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/zbar_1_8_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/zbar_1_8_2.xml" />
     </list>
     <ignored path="P3 - Alexandria.iws" />
     <ignored path=".idea/workspace.xml" />
